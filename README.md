@@ -4,6 +4,9 @@ My utility for easyswoole
 Quick Start
 -----------
 
+最新版已迁移至[https://github.com/wonder-game/es-utility](https://github.com/wonder-game/es-utility)
+-----------
+
 Install the library using [composer](https://getcomposer.org):
 
     php composer.phar require linkunyuan/es-utility
